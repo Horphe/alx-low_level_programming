@@ -1,4 +1,3 @@
-#!/bin/bash
 #inclube <stdio.h>
 
    /**
