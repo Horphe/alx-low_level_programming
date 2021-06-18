@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main - Entry point
- *Description: Print lower and upper case a-z
- *Return : Return the value (0)
+ * main - Entry point
+ * Description: Print lower case a-z
+ * Return: Return
  */
 int main(void)
 {
